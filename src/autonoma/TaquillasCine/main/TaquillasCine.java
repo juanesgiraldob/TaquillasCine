@@ -1,6 +1,6 @@
 package autonoma.TaquillasCine.main;
 
-import autonoma.TaquillaCine.models.*;
+import autonoma.TaquillasCine.models.*;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
