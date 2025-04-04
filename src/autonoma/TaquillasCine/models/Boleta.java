@@ -1,5 +1,5 @@
 
-package autonoma.TaquillaCine.models;
+package autonoma.TaquillasCine.models;
 
 public class Boleta {
     private double costoFinal;
